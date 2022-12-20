@@ -1,0 +1,25 @@
+{
+  "name": "jalak-css",
+  "version": "1.0.0",
+  "description": "framework css dengan filosofi hewan langka di Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahrul-Rozak/Jalak-CSS.git"
+  },
+  "keywords": [
+    "framework",
+    "css",
+    "simple",
+    "framework"
+  ],
+  "author": "orang indonesia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bahrul-Rozak/Jalak-CSS/issues"
+  },
+  "homepage": "https://github.com/Bahrul-Rozak/Jalak-CSS#readme"
+}
